@@ -1,6 +1,4 @@
 <?php
 
-echo "hello world";
-echo "hello world order";
 echo "hello world order rami";
 ?>
